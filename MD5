@@ -1,0 +1,16 @@
+7f97f7809d82565a15c1166125234f5a *DESCRIPTION
+805264adcf9392237f337fe90335704b *NAMESPACE
+168e0f5d1e3359453c15a928f691c6a7 *R/data.R
+60b927270eea1a21665528b6682db292 *R/man.R
+74ad4fe18e3974823dd14a99ffae3579 *R/man_version.R
+d0e4c05b6fa12296c5febb225fc4451f *R/on_load.R
+d48ee8541c9abd555d725fd434d4d568 *README.md
+cf1b0b6cecb54c99994e76961508ec8a *data/grassmodules78.rda
+32cf748352dc24ad98538b613072be2f *man/figures/README-screenshot.png
+f71b594da9ca14c6560838c561416c00 *man/figures/logo.png
+02a3c31c746459477aff8648024d66d5 *man/grassmodules78.Rd
+a9817293d1653981f5d736238a16e839 *man/man.Rd
+f42e099c944ef6daa1d2e80f1c701fb4 *man/man_set_version.Rd
+f43ac25d67b6a59d216228818a640bf1 *tests/testthat.R
+ba7d35cb95dec8ed3685f86537169950 *tests/testthat/test-man.R
+463581d25a324da9ecff8043c2f202b3 *tests/testthat/test-man_version.R
